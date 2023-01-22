@@ -1,0 +1,19 @@
+{
+  "name": "inju-tuku",
+  "version": "1.0.0",
+  "description": "静态资源图库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inju0524/tuchuangRepo.git"
+  },
+  "author": "inju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inju0524/tuchuangRepo/issues"
+  },
+  "homepage": "https://github.com/inju0524/tuchuangRepo#readme"
+}
