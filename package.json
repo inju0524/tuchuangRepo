@@ -1,6 +1,6 @@
 {
   "name": "inju-tuku",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "静态资源图库",
   "main": "index.js",
   "scripts": {
